@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdalarmansorker" alt="mdalarmansorker" /></a> </p>
 
-- 🔭 I’m currently working on [BAUST EMS Lite](https://github.com/asm-shaikat/baust-ems-lite)
+- 🔭 I’m currently working on [BAUST-EMS-Connect](https://github.com/mdalarmansorker/BAUST-EMS-Connect)
 
 - 🌱 I’m currently learning **Laravel**
 
