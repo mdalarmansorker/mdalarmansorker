@@ -9,6 +9,7 @@
 </div>
 
 ###
+- 📒 My Portfolio https://mdalarmansorker.netlify.app
 
 - 🔭 I’m currently working on [BAUST-EMS-Connect](https://github.com/mdalarmansorker/BAUST-EMS-Connect)
 
@@ -18,7 +19,7 @@
 
 - 💬 Ask me about **Competitive Programming**
 
-- 📫 How to reach me **mdalarmansorker@gmail.com**
+- 📫 How to reach me <a href="https://mdalarmansorker.netlify.app">MD Al Arman Sorker</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
