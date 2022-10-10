@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-al-arman-sorker-28ab181a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-al-arman-sorker-28ab181a9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdalarmansorker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdalarmansorker" height="30" width="40" /></a>
 <a href="https://fb.com/mdalarmansorker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdalarmansorker" height="30" width="40" /></a>
 <a href="https://instagram.com/mdalarmansorker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdalarmansorker" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-2ThS75SM_7Zctu0RBscdQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc-2ths75sm_7zctu0rbscdq" height="30" width="40" /></a>
