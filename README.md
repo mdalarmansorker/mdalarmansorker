@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👯 I’m looking to collaborate on [baust-ems-lite](https://github.com/asm-shaikat/baust-ems-lite)
+- 👯 I’m now collaborating on [baust-ems-lite](https://github.com/asm-shaikat/baust-ems-lite)
 
 - 💬 Ask me about **Competitive Programming**
 
