@@ -11,12 +11,6 @@
 ###
 - 📒 My Portfolio https://mdalarmansorker.netlify.app
 
-- 🔭 I’m currently working on [BAUST-EMS-Connect](https://github.com/mdalarmansorker/BAUST-EMS-Connect)
-
-- 🌱 I’m currently learning **Laravel**
-
-- 👯 I’m now collaborating on [baust-ems-lite](https://github.com/asm-shaikat/baust-ems-lite)
-
 - 💬 Ask me about **Competitive Programming**
 
 - 📫 How to reach me <a href="https://mdalarmansorker.netlify.app">MD Al Arman Sorker</a>
