@@ -1,4 +1,4 @@
-![Header](./mdalarmansorker-github.png)
+![Header](./Arman_cover_3.png)
 <div align="center">
   <h5>Profile View</h5>
   <img src="https://profile-counter.glitch.me/mdalarmansorker/count.svg?"  />
