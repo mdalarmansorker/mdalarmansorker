@@ -9,7 +9,7 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mdalarmansorker" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mdalarmansorker" height="150" alt="languages graph"  /> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=mdalarmansorker&show_icons=true&theme=onedark&hide=html"/>-->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mdalarmansorker&theme=transparent)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mdalarmansorker&theme=transparent" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api?username=mdalarmansorker&show_icons=true&theme=onedark&hide=html" alt="mdalarmansorker"/> 
 </div>
 
