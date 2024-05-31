@@ -14,8 +14,8 @@
 <table>
   <tr>
     <td>
-    ![mdalarmansorker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdalarmansorker&theme=nord&hide_border=false) \br
-    ![mdalarmansorker's Stats](https://github-readme-stats.vercel.app/api?username=mdalarmansorker&theme=nord&show_icons=true&hide_border=false&count_private=true) \br
+    ![mdalarmansorker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdalarmansorker&theme=nord&hide_border=false) 
+    ![mdalarmansorker's Stats](https://github-readme-stats.vercel.app/api?username=mdalarmansorker&theme=nord&show_icons=true&hide_border=false&count_private=true) 
     ![mdalarmansorker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalarmansorker&theme=nord&show_icons=true&hide_border=false&layout=compact)
     </td>
     <td></td>
