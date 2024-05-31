@@ -9,18 +9,18 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mdalarmansorker" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mdalarmansorker" height="150" alt="languages graph"  /> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=mdalarmansorker&show_icons=true&theme=onedark&hide=html"/>-->
-<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mdalarmansorker&theme=transparent" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdalarmansorker&show_icons=true&theme=onedark&hide=html" alt="mdalarmansorker"/>  -->
-<!-- <table>
+  
+  
+<table>
   <tr>
-    <td> -->
-    ![mdalarmansorker's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdalarmansorker&theme=nord&hide_border=false) 
-    ![mdalarmansorker's Stats](https://github-readme-stats.vercel.app/api?username=mdalarmansorker&theme=nord&show_icons=true&hide_border=false&count_private=true) 
-    ![mdalarmansorker's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdalarmansorker&theme=nord&show_icons=true&hide_border=false&layout=compact)
-<!--     </td>
-    <td></td>
+    <td>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mdalarmansorker&theme=transparent" alt="GitHub Streak" /></a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mdalarmansorker&show_icons=true&theme=onedark&hide=html" alt="mdalarmansorker"/> 
+    </td>
   </tr>
-</table> -->
+</table>
 </div>
 
 ###
