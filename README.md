@@ -26,7 +26,7 @@
 ###
 - 📒 My Portfolio https://mdalarmansorker.netlify.app
 
-- 💬 Ask me about **Competitive Programming**
+<!-- - 💬 Ask me about **Competitive Programming** -->
 
 - 📫 How to reach me <a href="https://mdalarmansorker.netlify.app">MD Al Arman Sorker</a>
 
