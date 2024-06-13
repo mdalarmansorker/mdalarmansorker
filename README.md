@@ -1,12 +1,12 @@
 <!-- ![Header](./Arman_cover_3.png) -->
 ![MD Al Arman Sorker](https://github.com/mdalarmansorker/mdalarmansorker/assets/73396847/8781b7d6-d0e9-4a65-bc57-e47c1767e781)
-
+<!--
 <div align="center">
   <h5>Profile View</h5>
   <img src="https://profile-counter.glitch.me/mdalarmansorker/count.svg?"  />
 </div>
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mdalarmansorker" height="150" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mdalarmansorker" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mdalarmansorker" height="150" alt="languages graph"  /> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=mdalarmansorker&show_icons=true&theme=onedark&hide=html"/>-->
   
