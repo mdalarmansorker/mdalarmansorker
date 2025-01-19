@@ -17,8 +17,8 @@
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mdalarmansorker&theme=transparent" alt="GitHub Streak" /></a>
     </td>
     <td>
-      ![mdalarmansorker's Stats](https://github-readme-stats.vercel.app/api?username=mdalarmansorker&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-<!--       <img src="https://github-readme-stats.vercel.app/api?username=mdalarmansorker&show_icons=true&theme=onedark&hide=html" alt="mdalarmansorker"/>  -->
+<!--       ![mdalarmansorker's Stats](https://github-readme-stats.vercel.app/api?username=mdalarmansorker&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) -->
+      <img src="https://github-readme-stats.vercel.app/api?username=mdalarmansorker&show_icons=true&theme=onedark&hide=html" alt="mdalarmansorker"/> 
     </td>
   </tr>
 </table>
