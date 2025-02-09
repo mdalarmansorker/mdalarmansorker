@@ -29,7 +29,7 @@
 
 <!-- - 💬 Ask me about **Competitive Programming** -->
 
-- 📫 How to reach me <a href="https://mdalarmansorker.netlify.app">MD Al Arman Sorker</a>
+- 📫 How to reach me <a href="https://mdalarmansorker.vercel.app">MD Al Arman Sorker</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
