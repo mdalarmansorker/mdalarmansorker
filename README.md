@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mdalarmansorker%40gmail.com&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mdalarmansorker&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
     </td>
     <td>
 <!--       ![mdalarmansorker's Stats](https://github-readme-stats.vercel.app/api?username=mdalarmansorker&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) -->
