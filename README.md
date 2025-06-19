@@ -3,7 +3,7 @@
     Designed with modern, clean sections and interactive badges.
 -->
 
-<h1 align="center">Hi, I'm Md Al-Amin Sorker 👋</h1>
+<h1 align="center">Hi, I'm Md Al Arman Sorker 👋</h1>
 <p align="center">
   <a href="https://mdalarmansorker.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-mdalarmansorker.vercel.app-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Md Al-Amin Sorker**, a passionate software developer focused on building impactful digital experiences. I love working with modern web technologies, learning new things, and solving real-world problems through code.
+Hi! I'm **Md Al Arman Sorker**, a passionate software developer focused on building impactful digital experiences. I love working with modern web technologies, learning new things, and solving real-world problems through code.
 
 - 🌱 Always exploring new frameworks and tools
 - 💬 Ask me about web development, JavaScript, React, Node.js & more
