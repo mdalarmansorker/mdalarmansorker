@@ -3,7 +3,7 @@
     Designed with modern, clean sections and interactive badges.
 -->
 
-<h1 align="center">Hi, I'm Md Al Arman Sorker 👋</h1>
+<h1 align="center">Hi, I'm Arman 👋</h1>
 <p align="center">
   <a href="https://mdalarmansorker.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-mdalarmansorker.vercel.app-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
