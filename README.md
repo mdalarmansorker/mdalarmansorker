@@ -40,11 +40,13 @@ Hi! I'm **Md Al Arman Sorker**, a passionate software developer focused on build
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=mdalarmansorker&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdalarmansorker&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalarmansorker&layout=compact&theme=radical" height="170"/>
-</p>
+</p> -->
 
 ---
 
