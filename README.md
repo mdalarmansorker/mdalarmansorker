@@ -26,7 +26,7 @@
 Hi! I'm **Md Al Arman Sorker**, a passionate software developer focused on building impactful digital experiences. I love working with modern web technologies, learning new things, and solving real-world problems through code.
 
 - 🌱 Always exploring new frameworks and tools
-- 💬 Ask me about web development, JavaScript, React, Node.js & more
+- 💬 Ask me about web development, JavaScript, TypeScript, React.js, Next.js, Laravel, Node.js & more
 - 🛠️ Open to freelance, collaboration, and remote opportunities
 
 ---
