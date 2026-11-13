@@ -1,27 +1,33 @@
 name: Generate Profile Summary Cards
 
 on:
-  schedule:
-    - cron: "0 0 * * *"   # daily
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          persist-credentials: false
 
       - name: Generate profile summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
+          AUTO_PUSH: false
+
+      - name: Upload generated cards
+        uses: actions/upload-artifact@v4
+        with:
+          name: profile-summary-cards
+          path: profile-summary-card-output/
