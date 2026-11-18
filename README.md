@@ -8,13 +8,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Md%20Al%20Arman%20Sorker&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20impactful%20digital%20experiences&descSize=18&descAlignY=60&animation=fadeIn" alt="Header banner" width="100%"/>
 
-<a href="www.armansorker.xyz">
+<a href="https://www.armansorker.xyz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=1DA1F2&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Arman+%F0%9F%91%8B;I+build+with+React+%26+Next.js+%E2%9A%9B%EF%B8%8F;I+ship+APIs+with+Node.js+%26+Laravel+%F0%9F%9A%80;Open+to+freelance+%26+remote+work+%F0%9F%9B%A0%EF%B8%8F;Let's+build+something+great+together+%E2%9C%A8" alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<a href="www.armansorker.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mdalarmansorker.vercel.app-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.armansorker.xyz" target="_blank"><img src="https://img.shields.io/badge/Portfolio-armansorker.xyz-1DA1F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:mdalarmansorker@gmail.com"><img src="https://img.shields.io/badge/Email-mdalarmansorker@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/mdalarmansorker/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-mdalarmansorker-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/mdalarmansorker" target="_blank"><img src="https://img.shields.io/github/followers/mdalarmansorker?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/></a>
@@ -119,7 +119,7 @@ const arman = {
 
 | 🌐 Portfolio | 📧 Email | 💼 LinkedIn |
 | :-: | :-: | :-: |
-| [mdalarmansorker.vercel.app](www.armansorker.xyz) | [mdalarmansorker@gmail.com](mailto:mdalarmansorker@gmail.com) | [mdalarmansorker](https://www.linkedin.com/in/mdalarmansorker/) |
+| [armansorker.xyz](https://www.armansorker.xyz) | [mdalarmansorker@gmail.com](mailto:mdalarmansorker@gmail.com) | [mdalarmansorker](https://www.linkedin.com/in/mdalarmansorker/) |
 
 <br/>
 
